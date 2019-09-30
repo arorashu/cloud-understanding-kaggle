@@ -1,4 +1,4 @@
-# cloud-understanding-kaggle
+# Understanding Clouds Kaggle Competition
 Kaggle competition: Understanding Clouds from Satellite Images
 ## Members
 - Shubham Arora

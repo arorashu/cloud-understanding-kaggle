@@ -13,7 +13,9 @@ The competition web page is provided [Here](https://www.kaggle.com/c/understandi
 - Meteorologists
 ## User Stories
 - I, the researcher, should be able to use this program to see the effects of climate change in a region.
-- I, the reasearcher, should be able to use this program to see what types of clouds are in a region.
+- I, the researcher, should be able to use this program to see what types of clouds are in a region.
 - I, the researcher/meteorologists, should be able to use this program to predict weather in a region.
+## MVP
+Our MVP’s bare bone features would be able to take in a satellite image (or a folder full of such images), analyze each one using an image processing API (such as scikit-image), and then return a sentiment detailing the density of each cloud type.
 ## Testing/Design
 To test the product, the competition provides satellite (provided by NASA). The product should be able to analyze each of these images and identify the types of clouds present in the image and the density of these cloud types.

@@ -1,5 +1,13 @@
 # Understanding Clouds Kaggle Competition
 Kaggle competition: Understanding Clouds from Satellite Images
+
+## TODO
+- checkout Snorkel - Stanford
+	deals with not very good data labels
+- look at various types of kernels
+- look at various kaggle kernels to understand significant methods / ideas
+
+
 ## Members
 - Shubham Arora
 - Michael Brunsman
@@ -19,3 +27,4 @@ The competition web page is provided [Here](https://www.kaggle.com/c/understandi
 Our MVP’s bare bone features would be able to take in a satellite image (or a folder full of such images), analyze each one using an image processing API (such as scikit-image), and then return a sentiment detailing the density of each cloud type.
 ## Testing/Design
 To test the product, the competition provides satellite (provided by NASA). The product should be able to analyze each of these images and identify the types of clouds present in the image and the density of these cloud types.
+

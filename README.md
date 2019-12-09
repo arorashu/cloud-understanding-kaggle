@@ -11,7 +11,7 @@ Kaggle competition: Understanding Clouds from Satellite Images
 ## Members
 - Shubham Arora
 - Michael Brunsman
-- David Henderson (U13104443)
+
 ## Project Mission
 The goal of this project is to create an image processing program that can identify different kinds of clouds (fish, flower, gravel, and sugar). This product will be used to predict weather in a region and to see the change in clouds due to climate change. Unlike most cloud image processing products, this one will be able to identify types of clouds in a region rather than just cloud density.
 ## Link to Competition
